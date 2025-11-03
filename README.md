@@ -106,6 +106,7 @@ while True:
 ## SCREENSHOT OF THE OUPT AND CIRCUIT 
 
 <img width="501" height="425" alt="image" src="https://github.com/user-attachments/assets/4eba07fc-62a8-4967-8bbf-9264379671c2" />
+
 ![Untitled](https://github.com/user-attachments/assets/a84a34df-b7f8-4a90-b160-8ccf1f1e915f)
 
 
